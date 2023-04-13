@@ -24,3 +24,6 @@ Projeto feito em sala de aula para testar o uso de Banco de Dados Relacional.
 
 ![Screenshot](Screenshot_5.png)
 
+## Link da aplicação
+* https://corrupt-lapse.000webhostapp.com/Avaliacao/index.html
+
